@@ -2,7 +2,7 @@
 
 A simple Python project based on Object-Oriented Programming (OOP) concepts.
 
-##\# Concepts Used
+## \# Concepts Used
 
 - Classes & Objects
 
@@ -12,7 +12,7 @@ A simple Python project based on Object-Oriented Programming (OOP) concepts.
 
 - Polymorphism
 
-##\# Features
+## \# Features
 
 - Create Employee, Manager, and Developer
 
@@ -20,10 +20,10 @@ A simple Python project based on Object-Oriented Programming (OOP) concepts.
 
 - Menu-driven console program
 
-##\# How to Run
+## \# How to Run
 
 python project-o5.py
 
-##\# Purpose
+## \# Purpose
 
 This project is useful for learning and understanding basic Python OOP concepts through a practical example.
